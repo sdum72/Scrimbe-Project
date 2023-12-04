@@ -33,7 +33,8 @@ add3Points()
 add3Points()
 add3Points()
 remove1Point()
-remove1Point()
+remove1Po
+nt()
 
 
 // Call the functions to that the line below logs out 10
